@@ -1,4 +1,4 @@
-<br> Emoji Game Demo: </br>
+<b> Emoji Game Demo: <b>
 
 A small demo of usage of CoreML and CreateML to train an ML Model and make predictions from that model, both on runtime. 
 
