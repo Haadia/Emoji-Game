@@ -1,3 +1,5 @@
+<br> Emoji Game Demo: </br>
+
 A small demo of usage of CoreML and CreateML to train an ML Model and make predictions from that model, both on runtime. 
 
 Pros of on-device training: 
